@@ -68,7 +68,7 @@ Ing. Darwin Omar Alulema Flores
 de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en
 la tabla 3.1.**
 
-**4.5.4. Compare los valores de la tabla 2.1 y realice sus conclusiones.**
+**4.5.4. Compare los valores de la tabla 3.1 y realice sus conclusiones.**
 
 <div align="center">
 
