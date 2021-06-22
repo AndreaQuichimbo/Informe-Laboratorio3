@@ -162,8 +162,8 @@ Obteniendo los valores de los voltajes en cada nodo.
 
 |  **MALLA** | **Resultados Analíticos** | **Resulttados Simulados** |     
 |    :---:   |           :---:           |         :---:             |
-|     a      |           2.82 mA         |           2.82 mA         |
-|     b      |           4.80 mA         |           4.80 mA         |
+|     a      |           2.82 V          |           2.82 V          |
+|     b      |           4.80 V          |           4.80 V          |
 
 </div>
 
