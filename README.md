@@ -151,6 +151,11 @@ Obteniendo los valores de los voltajes en cada nodo.
 
 # 6 CONCLUSIONES 
 
+•	Los cálculos poseen un porcentaje de error bajo en cuanto a los voltajes y obtenidos analíticamente con las medidas adquiridas en la práctica sin embargo esto es debido a que en los cálculos realizados están con una  gran cantidad de decimales.
+
+•	Se logró verificar con éxito el análisis de nodos  del circuito con la ayuda del simulador Tinkercad , ya que con los valores calculados y también al realizar la simulación, se puede concluir que los datos medidos comparados con los datos obtenidos de la práctica tienen menor margen de error.
+
+•	El método de análisis de mallas y nodos nos permite ver de manera sencilla el comportamiento de la corriente y voltaje dentro de un circuito siempre y cuando las ecuaciones estén bien planteadas.
 
 # 7 BIBLIOGRAFÍA
 
