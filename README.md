@@ -47,7 +47,7 @@ Calcular el voltaje presente en cada nodo del circuito mostrado mediante el mét
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84430867/122858838-99d03b00-d2e0-11eb-8d9e-8e9f9772e8df.png)
+![image](https://user-images.githubusercontent.com/84430867/122862254-75775d00-d2e6-11eb-8508-ed830bcf1ca1.png)
 
 </div>
 
