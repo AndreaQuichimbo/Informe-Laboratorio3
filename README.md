@@ -108,30 +108,53 @@ la tabla 3.1.**
 
 Armando el circuito que se muestra en la figura 3.1
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587293/122840013-d68b3a80-d2be-11eb-985c-d3563a7f6b25.png)
+  
+</div>
 
 Seleccionamos los materiales para proceder armar el circuito.
 
+<div align="center">
+  
 ![2021-06-21 16_40_18-Circuit design Brave Tumelo-Amberis _ Tinkercad](https://user-images.githubusercontent.com/84587293/122840085-08040600-d2bf-11eb-9b59-84b61b0f7102.png)
+
+</div>
 
 Colocamos las resistencias al Protoboard siguiendo el diagrama espermático dado.
 
+<div align="center">
+  
 ![2021-06-21 16_43_50-Circuit design Brave Tumelo-Amberis _ Tinkercad](https://user-images.githubusercontent.com/84587293/122840095-0f2b1400-d2bf-11eb-8fb4-1ee9e10110a5.png)
+
+</div>
 
 Interconectamos las resistencias en el Protoboard siguiendo el circuito dado.
 
+<div align="center">
+  
 ![2021-06-21 16_46_55-Circuit design Brave Tumelo-Amberis _ Tinkercad](https://user-images.githubusercontent.com/84587293/122840110-16eab880-d2bf-11eb-8078-06d86939c66f.png)
+
+</div>
 
 Conectamos el Protoboard a la fuente de alimentación (rojo+,negro -)e iniciamos la simulación con el circuito terminado.
 
+<div align="center">
+  
 ![2021-06-21 18_29_26-Circuit design Brave Tumelo-Amberis _ Tinkercad](https://user-images.githubusercontent.com/84587293/122840131-210cb700-d2bf-11eb-81fc-e5090cc90556.png)
+
+</div>
 
 Obteniendo los valores de los voltajes en cada nodo.
 
+<div align="center">
+  
 ![2021-06-21 18_18_59-Circuit design Brave Tumelo-Amberis _ Tinkercad](https://user-images.githubusercontent.com/84587293/122840177-371a7780-d2bf-11eb-9fa1-0acc3bc5813f.png)
 
 ![2021-06-21 21_39_51-Circuit design Brave Tumelo-Amberis _ Tinkercad](https://user-images.githubusercontent.com/84587293/122854393-49a1aa80-d2d9-11eb-9f07-8f25fad1bfa5.png)
 
+</div>
 
 **4.5.4. Compare los valores de la tabla 3.1 y realice sus conclusiones.**
 
@@ -146,8 +169,11 @@ Obteniendo los valores de los voltajes en cada nodo.
 
 **Calculo del Error**
 
+<div align="center">
+  
 ![error](https://user-images.githubusercontent.com/84587172/122856641-bcf8eb80-d2dc-11eb-814f-83503596e093.png)
 
+</div>
 
 # 5 VIDEO 
 
