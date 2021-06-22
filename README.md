@@ -185,7 +185,7 @@ Obteniendo los valores de los voltajes en cada nodo.
 |     a      |            12 V           |           12.0 V          |
 |     b      |           2.82 V          |           2.82 V          |
 |     c      |           4.80 V          |           4.80 V          |
-|     d      |            8. V           |           8.00 V          |
+|     d      |             8 V           |           8.00 V          |
 
 </div>
 
