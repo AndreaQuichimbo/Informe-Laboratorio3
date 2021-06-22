@@ -102,6 +102,14 @@ Para resolver el problema dado procedemos a realizar los cálculos y comparar co
   
 **4.5.2. Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.**
 
+<div align="center">
+  
+![2021-06-21 18_18_59-Circuit design Brave Tumelo-Amberis _ Tinkercad](https://user-images.githubusercontent.com/84587293/122840177-371a7780-d2bf-11eb-9fa1-0acc3bc5813f.png)
+
+![2021-06-21 21_39_51-Circuit design Brave Tumelo-Amberis _ Tinkercad](https://user-images.githubusercontent.com/84587293/122854393-49a1aa80-d2d9-11eb-9f07-8f25fad1bfa5.png)
+
+</div>
+
 **4.5.3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito
 de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en
 la tabla 3.1.**
@@ -187,5 +195,9 @@ Obteniendo los valores de los voltajes en cada nodo.
 •	El método de análisis de mallas y nodos nos permite ver de manera sencilla el comportamiento de la corriente y voltaje dentro de un circuito siempre y cuando las ecuaciones estén bien planteadas.
 
 # 7 BIBLIOGRAFÍA
+
+ANÁLISIS DE CIRCUITOS Y SISTEMAS LINEALES. (s.f.). Obtenido de https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_07.htm
+
+Gómez, A. J. (s.f.). Universidad de los Andes . Obtenido de ANÁLISIS POR NODOS Y MALLAS: http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf
 
 
