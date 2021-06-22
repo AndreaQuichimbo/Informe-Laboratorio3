@@ -94,6 +94,8 @@ Obteniendo los valores de los voltajes en cada nodo.
 
 ![2021-06-21 18_18_59-Circuit design Brave Tumelo-Amberis _ Tinkercad](https://user-images.githubusercontent.com/84587293/122840177-371a7780-d2bf-11eb-9fa1-0acc3bc5813f.png)
 
+![2021-06-21 21_39_51-Circuit design Brave Tumelo-Amberis _ Tinkercad](https://user-images.githubusercontent.com/84587293/122854393-49a1aa80-d2d9-11eb-9f07-8f25fad1bfa5.png)
+
 
 **4.5.4. Compare los valores de la tabla 3.1 y realice sus conclusiones.**
 
