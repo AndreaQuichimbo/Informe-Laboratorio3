@@ -116,7 +116,7 @@ Para resolver el problema dado procedemos a realizar los cálculos y comparar co
 
 <div align="center">
   
-![2021-06-21 18_18_59-Circuit design Brave Tumelo-Amberis _ Tinkercad](https://user-images.githubusercontent.com/84587293/122840177-371a7780-d2bf-11eb-9fa1-0acc3bc5813f.png)
+![image](https://user-images.githubusercontent.com/84430867/122974399-ddb25700-d357-11eb-856d-5c251f8fae87.png)
 
 ![2021-06-21 21_39_51-Circuit design Brave Tumelo-Amberis _ Tinkercad](https://user-images.githubusercontent.com/84587293/122854393-49a1aa80-d2d9-11eb-9f07-8f25fad1bfa5.png)
 
@@ -170,7 +170,7 @@ Obteniendo los valores de los voltajes en cada nodo.
 
 <div align="center">
   
-![2021-06-21 18_18_59-Circuit design Brave Tumelo-Amberis _ Tinkercad](https://user-images.githubusercontent.com/84587293/122840177-371a7780-d2bf-11eb-9fa1-0acc3bc5813f.png)
+![image](https://user-images.githubusercontent.com/84430867/122974341-cffcd180-d357-11eb-94c4-3284bd14ae1d.png)
 
 ![2021-06-21 21_39_51-Circuit design Brave Tumelo-Amberis _ Tinkercad](https://user-images.githubusercontent.com/84587293/122854393-49a1aa80-d2d9-11eb-9f07-8f25fad1bfa5.png)
 
@@ -182,8 +182,10 @@ Obteniendo los valores de los voltajes en cada nodo.
 
 |  **NODOS** | **Resultados Analíticos** | **Resulttados Simulados** |     
 |    :---:   |           :---:           |         :---:             |
+|     a      |            12 V           |           12.0 V          |
 |     b      |           2.82 V          |           2.82 V          |
 |     c      |           4.80 V          |           4.80 V          |
+|     d      |            8. V           |           8.00 V          |
 
 </div>
 
