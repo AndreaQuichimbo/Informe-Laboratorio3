@@ -14,7 +14,7 @@ Titoaña Tigse Leslie Brigitte
 
 NRC
   
-5416
+5412
 
 INGENIERO
 
@@ -185,6 +185,7 @@ Obteniendo los valores de los voltajes en cada nodo.
 
 # 5 VIDEO 
 
+https://www.youtube.com/watch?v=IfzxJNK5VBo
 
 # 6 CONCLUSIONES 
 
