@@ -86,8 +86,8 @@ Para resolver el problema dado procedemos a realizar los cálculos y comparar co
 
 ![3](https://user-images.githubusercontent.com/84587172/122855089-4f4bc000-d2da-11eb-85bf-20e12f40ada2.png)
 
-![4](https://user-images.githubusercontent.com/84587172/122855093-51158380-d2da-11eb-9da7-29855f2abdc1.png)
-
+![5](https://user-images.githubusercontent.com/84587172/122856339-3e9c4980-d2dc-11eb-8f6a-bda6abc9312c.png)
+  
 </div>
   
 **4.5.2. Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.**
