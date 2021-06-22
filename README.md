@@ -26,9 +26,15 @@ Ing. Darwin Omar Alulema Flores
 
 # 1 OBJETIVOS
 
-
 **2.1. OBJETIVO DE LA PRÁCTICA**
 
+Calcular el voltaje presente en cada nodo del circuito mostrado mediante el método de análisis de nodos
+
+•	Comprender la aplicación de la ley de corrientes de Kirchhoff en circuitos mixtos.
+
+•	Verificar analítica y experimentalmente los valores de las voltajes indicados
+
+•	Comparar los resultados obtenidos en los cálculos teóricos y en los simuladores y analizar su margen de error.
 
 
 **2.2. REQUISITOS PREVIOS.**
@@ -133,6 +139,7 @@ Obteniendo los valores de los voltajes en cada nodo.
 
 **Calculo del Error**
 
+![error](https://user-images.githubusercontent.com/84587172/122856641-bcf8eb80-d2dc-11eb-814f-83503596e093.png)
 
 
 # 5 VIDEO 
