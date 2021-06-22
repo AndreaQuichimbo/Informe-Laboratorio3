@@ -182,8 +182,8 @@ Obteniendo los valores de los voltajes en cada nodo.
 
 |  **NODOS** | **Resultados Analíticos** | **Resulttados Simulados** |     
 |    :---:   |           :---:           |         :---:             |
-|     a      |           2.82 V          |           2.82 V          |
-|     b      |           4.80 V          |           4.80 V          |
+|     b      |           2.82 V          |           2.82 V          |
+|     c      |           4.80 V          |           4.80 V          |
 
 </div>
 
