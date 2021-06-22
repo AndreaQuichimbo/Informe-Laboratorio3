@@ -42,6 +42,15 @@ Calcular el voltaje presente en cada nodo del circuito mostrado mediante el mét
 
 **2.3. INFORMACIÓN GENERAL**
 
+El procedimiento de análisis de sistemas o también conocido como análisis nodal, es uno de los medios apropiados para el análisis, diseño y evaluación, tanto en pozos fluyentes, intermitentes o con sistemas artificiales de producción.El análisis nodal, evalúa un sistema de producción dividido en tres componentes básicos:
+
+– Flujo a través de medios porosos
+
+– Flujo a través de tubería vertical o de producción
+
+– Flujo a través de la tubería horizontal o línea de descarga (L.D.)
+
+Para la predicción del comportamiento en cada uno de los componentes, se obtiene la caída de presión en cada uno de ellos. Para la obtención de las caídas de presión, se deben de asignar nodos en diversos puntos importantes dentro del sistema de producción, por lo tanto, se varían los gastos de producción y empleando un método de cálculo adecuado, se calcula la caída de presión entre dos nodos. Después, se selecciona un nodo de solución y las caídas de presión son adicionadas o sustraídas al punto de presión inicial o nodo de partida, hasta alcanzar el nodo de solución o incógnita.
 
 # 2 MARCO TEÓRICO
 
