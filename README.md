@@ -64,21 +64,32 @@ Ing. Darwin Omar Alulema Flores
 
 **4.5.1. Implemente el circuito que se presenta en la figura 3.1.**
 
+<div align="center">
+
 ![1](https://user-images.githubusercontent.com/84587172/122854865-f7ad5480-d2d9-11eb-9fa6-4757ef343050.png)
+
+</div>
 
 Para resolver el problema dado procedemos a realizar los cálculos y comparar con los datos obtenidos en la simulación.
 
 •	Para la resolución aplicaremos la ley de corrientes de Kirchhoff  en cada nodo especificado en la figura.
 
+<div align="center">
+
 ![2](https://user-images.githubusercontent.com/84587172/122855019-2e836a80-d2da-11eb-8af5-97d9531fcf02.png)
 
+</div>
+  
 •	En el nodo A y D no encontraremos ecuaciones ya que no existen caídas de voltaje o de intensidad por lo tanto el voltaje será igual al de la fuente.
+
+<div align="center">
 
 ![3](https://user-images.githubusercontent.com/84587172/122855089-4f4bc000-d2da-11eb-85bf-20e12f40ada2.png)
 
 ![4](https://user-images.githubusercontent.com/84587172/122855093-51158380-d2da-11eb-9da7-29855f2abdc1.png)
 
-
+</div>
+  
 **4.5.2. Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.**
 
 **4.5.3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito
