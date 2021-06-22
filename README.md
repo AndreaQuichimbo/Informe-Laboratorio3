@@ -45,7 +45,11 @@ Calcular el voltaje presente en cada nodo del circuito mostrado mediante el mét
 
 # 2 MARCO TEÓRICO
 
+<div align="center">
 
+![image](https://user-images.githubusercontent.com/84430867/122858838-99d03b00-d2e0-11eb-8d9e-8e9f9772e8df.png)
+
+</div>
 
 # 3 MATERIAL Y EQUIPO REQUERIDO
 
