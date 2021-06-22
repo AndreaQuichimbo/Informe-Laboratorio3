@@ -39,6 +39,9 @@ Calcular el voltaje presente en cada nodo del circuito mostrado mediante el mét
 
 **2.2. REQUISITOS PREVIOS.**
 
+Se requiere el análisis analítico del circuito mostrado en la figura 3.1., mediante la
+técnica del análisis de nodos. El valor obtenido de cada voltaje de nodo anótelo en la
+tabla 3.1.
 
 **2.3. INFORMACIÓN GENERAL**
 
