@@ -26,7 +26,7 @@ Ing. Darwin Omar Alulema Flores
 
 # 1 OBJETIVOS
 
-**2.1. OBJETIVO DE LA PRÁCTICA**
+**1.1. OBJETIVO DE LA PRÁCTICA**
 
 Calcular el voltaje presente en cada nodo del circuito mostrado mediante el método de análisis de nodos
 
@@ -37,13 +37,13 @@ Calcular el voltaje presente en cada nodo del circuito mostrado mediante el mét
 •	Comparar los resultados obtenidos en los cálculos teóricos y en los simuladores y analizar su margen de error.
 
 
-**2.2. REQUISITOS PREVIOS.**
+**1.2. REQUISITOS PREVIOS.**
 
 Se requiere el análisis analítico del circuito mostrado en la figura 3.1., mediante la
 técnica del análisis de nodos. El valor obtenido de cada voltaje de nodo anótelo en la
 tabla 3.1.
 
-**2.3. INFORMACIÓN GENERAL**
+**1.3. INFORMACIÓN GENERAL**
 
 El procedimiento de análisis de sistemas o también conocido como análisis nodal, es uno de los medios apropiados para el análisis, diseño y evaluación, tanto en pozos fluyentes, intermitentes o con sistemas artificiales de producción.El análisis nodal, evalúa un sistema de producción dividido en tres componentes básicos:
 
